@@ -2,6 +2,7 @@
   "name": "angular-osm",
   "description": "OpenStreetMap APIs as services for angular",
   "main": "dist/osm-full.js",
+  "version": "0.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/toutpt/angular-osm.git"
